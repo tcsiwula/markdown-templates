@@ -11,27 +11,22 @@ I was particularly inspired by the table for the [Constantinople progress tracke
 
 Check out the [table examples](https://github.com/tcsiwula/markdown-templates/blob/master/tables/)
 
-## relative link templates
 
+## Emoji tmeplates
 
+| Emoji  | Emoji name                   | Markup       | English |
+| ---    | ---                          | ------------- | ---- |
+| ✅     | white heavy check mark       | `:white_check_mark:` | Yes |
+| ✖️     | heavy multiplication x       | `:heavy_multiplication_x:` | No |
+| ❓     | black question mark ornament | `:question:` | Idk |
 
-## emoji tmeplates
-
-english | emoji | emoji name
-
-yes = ✅ (white heavy check mark)
-
-no = ✖️ (heavy multiplication x)
-
-idk = ❓ (black question mark ornament)
 
 ## gifs templates
 
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
+![Almost done](https://media.giphy.com/media/GoRkPquMO1qgw/giphy.gif)
 
 
-
-
-
+## relative link templates
 
