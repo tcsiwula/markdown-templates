@@ -2,6 +2,7 @@
 markdown templates for better communication
 
 ## motivation for markdown templates
+![Almost done](https://media.giphy.com/media/GoRkPquMO1qgw/giphy.gif)
 
 Markdown is communication and in an effort to better communicate to others I am organizing some template for myself and the world.
 
@@ -28,9 +29,6 @@ All of supported [github markup Emojis](https://gist.github.com/rxaviers/7360908
 
 ## A kitty cat!
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
-
-## A boston pup!
-![Almost done](https://media.giphy.com/media/GoRkPquMO1qgw/giphy.gif)
 
 
 ## relative link templates
